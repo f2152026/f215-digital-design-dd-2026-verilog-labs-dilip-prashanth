@@ -22,5 +22,6 @@ module FA_Gate(
   and #(2) (sum, cin, ps);
   or #(2) (cout, pc1, pc2);
 
+
 endmodule
 
